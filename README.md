@@ -42,3 +42,13 @@ Both the player and the computer are dealt random cards, scores are calculated, 
     If a player exceeds 21, they lose.
 
     The highest score under or equal to 21 wins.
+
+## Installation
+
+Make sure Python is installed on your system. Then, open your terminal and run:
+
+```bash
+git clone https://github.com/Siddikaslan/Calculator.git
+cd BlackJack
+python main.py
+```
